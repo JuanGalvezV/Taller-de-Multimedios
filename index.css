@@ -1,0 +1,48 @@
+body{
+    font-family: 'Lucida Sans';
+    font-size: large;
+    color: rgb(255, 255, 255);
+    background-image: url("imagenes/fondo_web.jpg");
+    background-size: cover;
+}
+.button_barra_tareas{
+    color: rgb(110, 173, 245);
+    padding: 10px;
+    background-color: rgb(43, 43, 43);
+    font-family: 'Lucida Sans';
+    text-align: center;
+    border: black;
+}
+.button_barra_tareas:hover{
+    background-color:rgb(70, 70, 70);
+}
+.cabecera{
+    text-align: center;
+}
+.formulario{
+    padding-right: 0%;
+    size: 0px;
+}
+#barra_tareas_separacion{
+    padding-left: 900px;
+}
+#buscar:hover{
+    background-color:rgb(70, 70, 70);
+}
+#contenedor_cabecera{
+    padding-top: 10%;
+}
+#barra_tareas{
+    background-color: rgb(43, 43, 43);
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+#buscar{
+    background-color:rgb(70, 70, 70);
+    border-color: rgb(2, 0, 36);
+    color: white;
+    font-family: 'Lucida Sans';
+}
+#imagen_word{
+    padding-left: 35%;
+}
